@@ -39,4 +39,4 @@ vcsInfo:
 
 runtime: js
 
-connectsTo: inventory-management-svc-intermediate
+connectsTo: inv-svc-solution-hst
